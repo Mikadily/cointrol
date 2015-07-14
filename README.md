@@ -66,6 +66,13 @@ The system consists of the following components:
 
 ### Install Cointrol
 
+####
+
+Ubuntu prerequisites:
+```
+sudo apt-get install git python-pip python3-dev npm redis-server
+```
+
 #### Server
 ```bash
 mkdir Cointrol && cd Cointrol
